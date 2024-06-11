@@ -3,14 +3,12 @@
     # E-Mail: jbllobrera@up.edu.ph
 # Description:
 """
-    This Library Inventory and Logging System was developed as a project for CMSC 12. 
-    It serves as a comprehensive solution for managing library operations efficiently, 
-    including:
+    This Library Inventory and Logging System serves as a comprehensive solution for managing library 
+    operations efficiently, including:
         - Adding, deleting, editing, and viewing books in the library inventory.
         - Facilitating book borrowing and returns, ensuring smooth circulation of library resources.
         - Offering features like log viewing, visit recording, and transaction tracking to provide insights into library activities and operations.
         - Prioritizing data security through encryption, safeguarding sensitive information stored within the system.
-
     For inquiries or further information, you may contact the author at jbllobrera@up.edu.ph.
 """
 
