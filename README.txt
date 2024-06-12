@@ -1,7 +1,7 @@
 Library Inventory and Logging System
 
 Overview
-The Library Inventory and Logging System is a Python-based application. It provides a comprehensive solution for managing library operations efficiently, including book management, borrowing and returning books, logging visits, and tracking transactions. The system prioritizes data security through encryption, ensuring sensitive information stored within the system is protected.
+This Library Inventory and Logging System is a Python-based application. It provides a comprehensive solution for managing library operations efficiently, including book management, borrowing and returning books, logging visits, and tracking transactions. The system prioritizes data security through encryption, ensuring sensitive information stored within the system is protected.
 
 Features
 - Book Management:
