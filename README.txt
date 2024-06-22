@@ -25,16 +25,16 @@ Features
 Usage
 1. Clone the repository to your local machine.
 2. Make sure you have Python installed (Python 3.x recommended).
-3. Install the required dependencies using `pip install -r requirements.txt`.
+3. Install the required dependencies using `pip install cryptography`.
 4. Run the `library_system.py` script using Python.
 5. Follow the on-screen instructions to navigate through different functionalities.
 
 File Structure
 - library_system.py: Main Python script containing the library system functionality.
 - encryption_key.key: File containing the encryption key. (Automatically generated if not present)
-- books.txt: Encrypted file storing the library inventory.
-- borrow_list.txt: Encrypted file storing borrow transactions.
-- logbook.txt: Encrypted file storing visitation and entry logs.
+- books.txt: Encrypted file storing the library inventory. (Automatically generated if not present)
+- borrow_list.txt: Encrypted file storing borrow transactions. (Automatically generated if not present)
+- logbook.txt: Encrypted file storing visitation and entry logs. (Automatically generated if not present)
 
 Contact
 For any inquiries or further information, you may contact the author:
